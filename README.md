@@ -68,8 +68,8 @@ The grafana utility takes this data and allows us to perform various graphical a
 
 
 #### Screenshots Android Application 
-![SS1](ScreenShots/Android1.jpeg)
-<img src="ScreenShots/Android1.jpeg" width="128"/>
+
+<img src="ScreenShots/Android1.jpeg" width="256"/>
 
 ### Conclusion and Future Scope
 
