@@ -34,18 +34,18 @@ The grafana utility takes this data and allows us to perform various graphical a
 ● Rough Layout of project code - Diagrams , Front end 
 
 #### Production
-● Desktop application - Packaging and forming Executable - Electron  \
-● Login Authentication (NodeJS, Firebase) \ 
+● Desktop application - Packaging and forming Executable - Electron \
+● Login Authentication : NodeJs, Firebase \ 
 ● Graphical Dashboards - Grafana \ 
 ● Front End : HTML CSS Javascript \ 
-●  BackEnd :  NodeJs , Mysql \ 
+● BackEnd :  NodeJs , Mysql \
 ● Git & Github for Version Control
 
 #### Launch, Testing, Feedback and Update
 ●  To be done 
 
 #### Tools and Tech Stack used to build the Desktop Application 
-●  Electron \
+● Electron \
 ● NodeJs \
 ● HTML , CSS , Javascript   \
 ● Grafana \
@@ -55,7 +55,7 @@ The grafana utility takes this data and allows us to perform various graphical a
 ● Git & GitHub
 
 #### Tools and Tech Stack used to build the Android Application
-●  Java  \
+● Java  \
 ● Webview \
 ● Javascript \
 ● Grafana \
