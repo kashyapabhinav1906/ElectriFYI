@@ -35,10 +35,10 @@ The grafana utility takes this data and allows us to perform various graphical a
 
 #### Production
 ● Desktop application - Packaging and forming Executable - Electron \
-● Login Authentication : NodeJs, Firebase \ 
+● Login Authentication - NodeJs, Firebase \
 ● Graphical Dashboards - Grafana \ 
-● Front End : HTML CSS Javascript \ 
-● BackEnd :  NodeJs , Mysql \
+● Front End - HTML CSS Javascript \ 
+● BackEnd - NodeJs, Mysql \
 ● Git & Github for Version Control
 
 #### Launch, Testing, Feedback and Update
