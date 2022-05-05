@@ -67,8 +67,8 @@ The grafana utility takes this data and allows us to perform various graphical a
 #### Screenshots Desktop Utility Application
 
 <img src="ScreenShots/Desktop1.png" />
-<img src="ScreenShots/Desktop2.png" width="256"/>
-<img src="ScreenShots/Desktop3.png" width="256"/>
+<img src="ScreenShots/Desktop2.png" />
+<img src="ScreenShots/Desktop3.png" />
 
 #### Screenshots Android Application 
 
