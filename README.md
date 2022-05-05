@@ -24,21 +24,21 @@ The grafana utility takes this data and allows us to perform various graphical a
 ● Defining basic deliverables and user requirements\
 ● Exploring Technologies \
 ● Choice of dashboard panels \
-● Placement of dashboard panels\
-● Platform\
+● Placement of dashboard panels \
+● Platform \
 ● Web/standalone application\
 
 #### Pre-Production
 ● Finalizing technology \
-● Embedding Panels in application\ 
-● Rough Layout of project code - Diagrams , Front end \ 
+● Embedding Panels in application \ 
+● Rough Layout of project code - Diagrams , Front end 
 
 #### Production
 ● Desktop application - Packaging and forming Executable - Electron  \
-● Login Authentication (NodeJS, Firebase)\ 
-● Graphical Dashboards - Grafana\ 
+● Login Authentication (NodeJS, Firebase) \ 
+● Graphical Dashboards - Grafana \ 
 ● Front End : HTML CSS Javascript \ 
-●  BackEnd :  NodeJs , Mysql\ 
+●  BackEnd :  NodeJs , Mysql \ 
 ● Git & Github for Version Control
 
 #### Launch, Testing, Feedback and Update
@@ -46,12 +46,12 @@ The grafana utility takes this data and allows us to perform various graphical a
 
 #### Tools and Tech Stack used to build the Desktop Application 
 ●  Electron \
-● NodeJs\
-● HTML , CSS , Javascript  
-● Grafana\
+● NodeJs \
+● HTML , CSS , Javascript   \
+● Grafana \
 ● Mysql \
-● XAMPP PHPMYADMIN\
-● Visual Studio Code\
+● XAMPP PHPMYADMIN \
+● Visual Studio Code \
 ● Git & GitHub
 
 #### Tools and Tech Stack used to build the Android Application
