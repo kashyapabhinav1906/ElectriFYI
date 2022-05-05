@@ -66,10 +66,19 @@ The grafana utility takes this data and allows us to perform various graphical a
 
 #### Screenshots Desktop Utility Application
 
+<img src="ScreenShots/Desktop1.png" width="256"/>
+<img src="ScreenShots/Desktop2.png" width="256"/>
+<img src="ScreenShots/Desktop3.png" width="256"/>
 
 #### Screenshots Android Application 
 
 <img src="ScreenShots/Android1.jpeg" width="256"/>
+<img src="ScreenShots/Android2.jpeg" width="256"/>
+<img src="ScreenShots/Android3.jpeg" width="256"/>
+<img src="ScreenShots/Android4.jpeg" width="256"/>
+<img src="ScreenShots/Android5.jpeg" width="256"/>
+
+
 
 ### Conclusion and Future Scope
 
