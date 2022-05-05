@@ -30,7 +30,7 @@ The grafana utility takes this data and allows us to perform various graphical a
 
 #### Pre-Production
 ● Finalizing technology \
-● Embedding Panels in application \ 
+● Embedding Panels in application \
 ● Rough Layout of project code - Diagrams , Front end 
 
 #### Production
