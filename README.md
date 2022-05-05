@@ -68,6 +68,7 @@ The grafana utility takes this data and allows us to perform various graphical a
 
 
 #### Screenshots Android Application 
+![SS1](ScreenShots/Android1.jpeg)
 
 ### Conclusion and Future Scope
 
